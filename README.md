@@ -16,6 +16,7 @@ A checklist for using Github as a project management tool. In the context of a p
 * [ ] Add the label "in progress" to inform your team you are currently working on the user story and to keep time spend on the task
 * [ ] Update the Readme before working on a user story: **what, why, how**
 * [ ] Add comments to the user story to descibe the progress of your work. Your team will know if you have some problem and can help you. Your clients can also see what you are working on and it can help them to understand your work
+* [ ] Use Github notification to see if someone add a comment/response/help to your user story
 * [ ] If you haven't finished a user story at the end of a day, take 1/2h to add a clear and precise description of the current status of the user story. People can easily replace you if you can't finish the user story
 * [ ] Each commmtis must refere a user story
 
