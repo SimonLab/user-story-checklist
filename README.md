@@ -25,6 +25,7 @@ In the context of a project management tool Github issues are called user storie
 
 * [ ] Are all tests passing?
 * [ ] Is the coverage still 100%?
+* [ ] Increment the version of your app
 * [ ] Create a pull request
 * [ ] Assign someone to review your pull request
 * [ ] Delete the label "in progress"
